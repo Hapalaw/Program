@@ -1,0 +1,7 @@
+Lai palaistu programmu, jums ir nepieciešams Python 3.
+
+Programma ātri izdzēš visus failus vēlamajā mapē un arī automātiski iztīra atkritni.
+Visu var pielāgot! Ar peles labo pogu noklikšķiniet uz faila un atveriet to, izmantojot jebkuru ērtu redaktoru.
+Pašā apakšā jūs redzēsiet, kas jums nepieciešams. Kad viss ir iestatīts, varat to izmantot!
+
+Nikita Mihailovs, 11 kl.
